@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/maxdeviant/depot/issues"
   },
-  "homepage": "https://github.com/maxdeviant/depot"
+  "homepage": "https://github.com/maxdeviant/depot",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.2.0"
+  }
 }
